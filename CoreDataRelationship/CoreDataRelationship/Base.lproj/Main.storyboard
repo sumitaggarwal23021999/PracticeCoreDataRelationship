@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="19455" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19454"/>
+    </dependencies>
+    <scenes>
+        <!--AddCollegeVC-->
+        <scene sceneID="mBG-H0-7xC">
+            <objects>
+                <viewControllerPlaceholder storyboardIdentifier="AddCollegeVC" storyboardName="College" referencedIdentifier="AddCollegeVC" id="FBF-0l-NqQ" sceneMemberID="viewController"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="jxX-un-SZp" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1715.9420289855075" y="79.6875"/>
+        </scene>
+        <!--CollegeListVC-->
+        <scene sceneID="df1-XB-yz4">
+            <objects>
+                <viewControllerPlaceholder storyboardIdentifier="CollegeListVC" storyboardName="College" referencedIdentifier="CollegeListVC" id="pig-7z-0AZ" sceneMemberID="viewController"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="aXw-sh-BX3" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="944.92753623188412" y="79.6875"/>
+        </scene>
+        <!--AddStudentVC-->
+        <scene sceneID="dKJ-od-MiA">
+            <objects>
+                <viewControllerPlaceholder storyboardIdentifier="AddStudentVC" storyboardName="Student" referencedIdentifier="AddStudentVC" id="73f-Va-gg3" sceneMemberID="viewController"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="exv-q5-Xhj" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2770" y="514"/>
+        </scene>
+        <!--StudentListVC-->
+        <scene sceneID="TDc-sc-GeH">
+            <objects>
+                <viewControllerPlaceholder storyboardIdentifier="StudentListVC" storyboardName="Student" referencedIdentifier="StudentListVC" id="a1m-mn-VJf" sceneMemberID="viewController"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="asg-Hw-QBX" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1944.9275362318842" y="500.89285714285711"/>
+        </scene>
+    </scenes>
+</document>
